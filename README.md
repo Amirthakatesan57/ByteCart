@@ -1,6 +1,6 @@
 <h1 align="center">ByteCart 🛒</h1>
 
-![Demo App](/frontend/public/E-COMMERCE IMG.png)
+![Demo App](/frontend/public/E-COMMERCE-IMAGE.png)
 
 About This Project:
 
